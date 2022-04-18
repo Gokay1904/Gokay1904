@@ -1,10 +1,17 @@
 ### 👋 Hi there Gökay here!
 
+  Education:
 
-___
+  __Istanbul Technical University__
+  
+  Physics Engineering Undergraduate Student
+  ___
+  
+  
   
 __Here is my journey: How did it start and how does it continue:__
 
+---
 
 👶I started programming with __Java__ in 2013 when i was 12 years old. 
 ---
@@ -56,3 +63,6 @@ __Here is my journey: How did it start and how does it continue:__
 
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay1904&show_icons=true&theme=buefy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay1904&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+

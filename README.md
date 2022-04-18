@@ -1,13 +1,5 @@
 ### 👋 Hi there Gökay here!
 
-  Education:
-
-  __Istanbul Technical University__
-  
-  Physics Engineering Undergraduate Student
-  ___
-  
-  
   
 __Here is my journey: How did it start and how does it continue:__
 

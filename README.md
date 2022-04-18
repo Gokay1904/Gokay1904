@@ -1,5 +1,5 @@
 ### 👋 Hi there Gökay here!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay1904&show_icons=true&theme=buefy)
+
 
 ___
   
@@ -55,4 +55,4 @@ __Here is my journey: How did it start and how does it continue:__
 
 
     
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay1904&show_icons=true&theme=buefy)

@@ -20,7 +20,7 @@ __Here is my journey: How did it start and how does it continue:__
 🧑In my high school years, I turned to game development, which was my childhood dream.
 ---
   
-🔸I met the __Unity___ game development engine. I had to choice one of my two alternatives (C# or Javascript).
+🔸I met the __Unity__ game development engine. I had to choice one of my two alternatives (C# or Javascript).
 	
 🔸I chose ___C#___ and started developing code in Visual Studio on one hand and Unity engine on the other.
 	

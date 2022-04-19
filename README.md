@@ -1,4 +1,4 @@
-### 👋 Hi there Gökay here!
+### 👋 Hi there!
 
   
 __Here is my journey: How did it start and how does it continue:__

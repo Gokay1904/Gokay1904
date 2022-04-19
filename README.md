@@ -5,10 +5,10 @@ __Here is my journey: How did it start and how does it continue:__
 
 ---
 
-👶I started programming with __Java__ in 2013 when i was 12 years old. 
+👶I started programming with __Java__ in 2013 when I was 12 years old. 
 ---
 
-🔸Less than a year later, I grasped the basic concept of object oriented programming on Eclipse environment.
+🔸Less than a year later, I grasped the basic concept of __object-oriented programming__ on Eclipse environment.
 
 🔸At 2014's I made basic interface designs in netbeans.
 	

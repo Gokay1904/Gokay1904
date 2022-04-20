@@ -24,11 +24,11 @@ __Here is my journey: How did it start and how does it continue:__
 	
 🔸I chose ___C#___ and started developing in Visual Studio on one hand and Unity engine on the other.
 	
-🔸I have done many unfinished game projects. The minigame I completed the first development was in 2019.
+🔸I have done many unfinished game projects. The first minigame project I completed was in 2019.
 		
 🔸I gained basic knowledge about html and css.
 
-🧔‍At the age of 20, in 2021, I joined my university's game developers community and did my first teamwork in __48-hour gamejams.__
+🧔‍At the age of 20, in 2021, I joined my university's game developers community and made my first teamwork in __48-hour gamejams.__
 ---
   
 🔸I learned basics of ___Fortran___ and ___Python___ through my courses at university

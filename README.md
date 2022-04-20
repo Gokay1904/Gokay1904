@@ -49,8 +49,10 @@ __Here is my journey: How did it start and how does it continue:__
 🚩Selenium, 
 
 🚩Bs4(BeautifulSoup)-Web Scraping, 
-		
+
 🚩Turtle
+
+🚩Spotipy
 
 
     

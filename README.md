@@ -22,7 +22,7 @@ __Here is my journey: How did it start and how does it continue:__
   
 🔸I met the __Unity__ game development engine. I had to choice one of C# or Javascript programming languages for game development.
 	
-🔸I chose ___C#___ and started developing code in Visual Studio on one hand and Unity engine on the other.
+🔸I chose ___C#___ and started developing in Visual Studio on one hand and Unity engine on the other.
 	
 🔸I have done many unfinished game projects. The minigame I completed the first development was in 2019.
 		

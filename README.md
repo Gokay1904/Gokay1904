@@ -35,7 +35,7 @@ __Here is my journey: How did it start and how does it continue:__
 	
 🔸Python impressed me with its many advantages
 	
-🔸So far, I have worked in libraries such as:
+🔸So far, I have worked in libraries like:
 
 
 🚩Pandas, 

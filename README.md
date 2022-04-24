@@ -61,15 +61,16 @@ __Here is my journey: How did it start and how does it continue:__
 ![c#](https://img.shields.io/static/v1?logo=csharp&label=&message=csharp&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=FF0000&style=flat-square)
 ![blender](https://img.shields.io/static/v1?logo=blender&label=&message=blender&color=111&logoColor=FF0000&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
-    
-<a href=https://www.instagram.com/gokay__akcay/">
-  <img align="left" alt="Gokay's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-			       
+&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp; 
+
+
+<a href="https://www.instagram.com/gokay__akcay/">						
+	<img align="left" alt="Gokay's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>	
+			     
 <a href="https://www.linkedin.com/in/g%C3%B6kay-ak%C3%A7ay-647522188/?locale=en_US">
   <img align="left" alt="Gokay's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>

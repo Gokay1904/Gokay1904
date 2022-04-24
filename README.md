@@ -67,13 +67,12 @@ __Here is my journey: How did it start and how does it continue:__
 &nbsp;&nbsp;&nbsp;  
 <a href="https://www.instagram.com/gokay__akcay/">						
 	<img align="left" alt="Gokay's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>	
-			     
+</a>				     
 <a href="https://www.linkedin.com/in/g%C3%B6kay-ak%C3%A7ay-647522188/?locale=en_US">
   <img align="left" alt="Gokay's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-
- &nbsp;&nbsp;&nbsp; 
+&nbsp;
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay1904&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay1904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

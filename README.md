@@ -64,9 +64,7 @@ __Here is my journey: How did it start and how does it continue:__
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=FF0000&style=flat-square)
 ![blender](https://img.shields.io/static/v1?logo=blender&label=&message=blender&color=111&logoColor=FF0000&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
-&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp; 
-
-
+&nbsp;&nbsp;&nbsp;  
 <a href="https://www.instagram.com/gokay__akcay/">						
 	<img align="left" alt="Gokay's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>	
@@ -75,6 +73,7 @@ __Here is my journey: How did it start and how does it continue:__
   <img align="left" alt="Gokay's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
+ &nbsp;&nbsp;&nbsp; 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay1904&show_icons=true&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay1904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

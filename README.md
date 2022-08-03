@@ -1,7 +1,7 @@
 ### 👋 Hi there!
 
   
-__Here is my journey: How did it start and how it continues:__
+__Here is my journey: How it started and how it continues:__
 
 ---
 

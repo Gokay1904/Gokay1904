@@ -50,7 +50,7 @@ __Here is my journey: How did it start and how it continues:__
 		
 🚩Selenium, 
 
-🚩Bs4(BeautifulSoup)-Web Scraping, 
+🚩Bs4
 
 🚩Turtle
 

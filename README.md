@@ -45,12 +45,16 @@ __Here is my journey: How did it start and how it continues:__
 🚩Matplotlib, 
 		
 🚩Tkinter, 
+
+🚩Flask+Jinja
 		
 🚩Selenium, 
 
 🚩Bs4(BeautifulSoup)-Web Scraping, 
 
 🚩Turtle
+
+🚩SQLAlchemy
 
 🚩Spotipy
 

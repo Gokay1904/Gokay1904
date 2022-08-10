@@ -38,17 +38,17 @@ __Here is my journey: How it started and how it continues:__
 🔸So far, I have worked in libraries like:
 
 
-🚩Pandas, 
+🚩Pandas 
 		
-🚩Numpy, 
+🚩Numpy 
 		
-🚩Matplotlib, 
+🚩Matplotlib 
 		
-🚩Tkinter, 
+🚩Tkinter 
 
-🚩Flask+Jinja,
+🚩Flask+Jinja
 		
-🚩Selenium, 
+🚩Selenium 
 
 🚩Bs4
 

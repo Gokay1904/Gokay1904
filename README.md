@@ -3,10 +3,7 @@
   
 __Here is my journey: How it started and how it continues:__
 
----
-
 ## 👶I started programming with __Java__ in 2013 when I was 12 years old. 
----
 
 🔸Less than a year later, I grasped the basic concept of __object-oriented programming__ on Eclipse environment.
 
@@ -18,8 +15,7 @@ __Here is my journey: How it started and how it continues:__
 
 
 ## 🧑In my high school years, I turned to game development, which was my childhood dream.
----
-  
+
 🔸I met the __Unity__ game development engine in 2016. I had to choice one of C# or Javascript programming languages for game development.
 	
 🔸I chose ___C#___ and started developing in Visual Studio on one hand and Unity engine on the other.
@@ -29,7 +25,6 @@ __Here is my journey: How it started and how it continues:__
 🔸I gained basic knowledge about html and css.
 
 ## 🧔‍At the age of 20, in 2021, I joined my university's game developers community and made my first teamwork in __48-hour gamejams.__
----
   
 🔸I learned basics of ___Fortran___ and ___Python___ through my courses at university
 	

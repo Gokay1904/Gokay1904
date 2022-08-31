@@ -8,13 +8,13 @@ __Here is my journey: How it started and how it continues:__
 👶I started programming with __Java__ in 2013 when I was 12 years old. 
 ---
 
-🔸Less than a year later, I grasped the basic concept of __object-oriented programming__ on Eclipse environment.
+- 🔸Less than a year later, I grasped the basic concept of __object-oriented programming__ on Eclipse environment.
 
-🔸At 2014's I made basic interface designs in netbeans.
+- 🔸At 2014's I made basic interface designs in netbeans.
 	
-🔸After a short time I have worked with ___Canvas,Graphics JFrame libraries___ on Java.
+- 🔸After a short time I have worked with ___Canvas,Graphics JFrame libraries___ on Java.
 	
-🔸I learned data tools such as __Json__ and __Mysql__.
+- 🔸I learned data tools such as __Json__ and __Mysql__.
 
 
 🧑In my high school years, I turned to game development, which was my childhood dream.

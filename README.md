@@ -14,7 +14,7 @@ __Here is my journey: How it started and how it continues:__
 🔸I learned data tools such as __Json__ and __Mysql__.
 
 
-## 🧑In my high school years, I turned to game development, which was my childhood dream.
+## 🧑In high school years, I turned to game development, which was my childhood dream.
 
 🔸I met the __Unity__ game development engine in 2016. I had to choice one of C# or Javascript programming languages for game development.
 	

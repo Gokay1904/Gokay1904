@@ -1,23 +1,23 @@
-### 👋 Hi there!
+# 👋 Hi there!
 
   
 __Here is my journey: How it started and how it continues:__
 
 ---
 
-👶I started programming with __Java__ in 2013 when I was 12 years old. 
+## 👶I started programming with __Java__ in 2013 when I was 12 years old. 
 ---
 
-- 🔸Less than a year later, I grasped the basic concept of __object-oriented programming__ on Eclipse environment.
+🔸Less than a year later, I grasped the basic concept of __object-oriented programming__ on Eclipse environment.
 
-- 🔸At 2014's I made basic interface designs in netbeans.
+🔸At 2014's I made basic interface designs in netbeans.
 	
-- 🔸After a short time I have worked with ___Canvas,Graphics JFrame libraries___ on Java.
+🔸After a short time I have worked with ___Canvas,Graphics JFrame libraries___ on Java.
 	
-- 🔸I learned data tools such as __Json__ and __Mysql__.
+🔸I learned data tools such as __Json__ and __Mysql__.
 
 
-🧑In my high school years, I turned to game development, which was my childhood dream.
+## 🧑In my high school years, I turned to game development, which was my childhood dream.
 ---
   
 🔸I met the __Unity__ game development engine in 2016. I had to choice one of C# or Javascript programming languages for game development.
@@ -28,7 +28,7 @@ __Here is my journey: How it started and how it continues:__
 		
 🔸I gained basic knowledge about html and css.
 
-🧔‍At the age of 20, in 2021, I joined my university's game developers community and made my first teamwork in __48-hour gamejams.__
+## 🧔‍At the age of 20, in 2021, I joined my university's game developers community and made my first teamwork in __48-hour gamejams.__
 ---
   
 🔸I learned basics of ___Fortran___ and ___Python___ through my courses at university

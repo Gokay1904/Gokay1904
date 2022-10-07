@@ -20,7 +20,7 @@ __Here is my journey: How it started and how it continues:__
 	
 🔸I chose ___C#___ and started developing in Visual Studio on one hand and Unity engine on the other.
 	
-🔸I have done many unfinished game projects. The first minigame project I completed was in 2019.
+🔸I have done many unfinished game projects so far but The first minigame project I completed was in 2019.
 		
 🔸I gained basic knowledge about html and css.
 

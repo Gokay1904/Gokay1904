@@ -30,7 +30,7 @@ __Here is my journey: How it started and how it continues:__
 	
 🔸Python impressed me with its many advantages
 
-🔸Lately I've been working on data science libraries or related libraries.
+🔸Lately, I've been working on data science libraries or related libraries.
 	
 🔸So far, I have worked in libraries like:
 

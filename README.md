@@ -37,8 +37,12 @@ __Here is my journey: How it started and how it continues:__
 
 🚩Pandas 
 		
-🚩Numpy 
-		
+🚩Numpy
+
+🚩Scikit-learn	
+
+🚩Keras
+
 🚩Matplotlib 
 		
 🚩Tkinter 

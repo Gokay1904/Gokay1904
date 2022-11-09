@@ -66,6 +66,7 @@ __Here is my journey: How it started and how it continues:__
 ![c#](https://img.shields.io/static/v1?logo=csharp&label=&message=csharp&color=36465D&logoColor=AAA&style=flat-square)
 ![c++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=36465D&logoColor=AAA&style=flat-square)
 ![solidity](https://img.shields.io/static/v1?logo=solidity&label=&message=solidity&color=36465D&logoColor=AAA&style=flat-square)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)

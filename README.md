@@ -88,9 +88,9 @@ __Here is my journey: How it started and how it continues:__
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/gokay__akcay/">						
-	<img align="left" alt="Gokay's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+	<img align="left" alt="Gokay's Instagram" width="20px" src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 </a>				     <a href="https://www.linkedin.com/in/g%C3%B6kay-ak%C3%A7ay-647522188/?locale=en_US">
-  <img align="left" alt="Gokay's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Gokay's LinkedIn" width="20px" src="![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)" />
 </a>
 &nbsp;&nbsp;&nbsp;
 

@@ -70,7 +70,7 @@ __Here is my journey: How it started and how it continues:__
 
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=FF0000&style=flat-square)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)

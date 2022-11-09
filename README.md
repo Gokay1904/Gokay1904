@@ -71,10 +71,13 @@ __Here is my journey: How it started and how it continues:__
 
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=FF0000&style=flat-square)
-![blender](https://img.shields.io/static/v1?logo=blender&label=&message=blender&color=111&logoColor=FF0000&style=flat-square)
-![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
-![unity](https://img.shields.io/static/v1?logo=unity&label=&message=unity&color=111&logoColor=FF0000&style=flat-square) 
-![androidstudio](https://img.shields.io/static/v1?logo=androidstudio&label=&message=androidstudio&color=111&logoColor=FF0000&style=flat-square) 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/gokay__akcay/">						

@@ -60,12 +60,12 @@ __Here is my journey: How it started and how it continues:__
 🚩Spotipy
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-![fortran](https://img.shields.io/static/v1?logo=fortran&label=&message=fortran&color=36465D&logoColor=AAA&style=flat-square)
-![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=36465D&logoColor=AAA&style=flat-square)
-![c#](https://img.shields.io/static/v1?logo=csharp&label=&message=csharp&color=36465D&logoColor=AAA&style=flat-square)
-![c++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=cpp&color=36465D&logoColor=AAA&style=flat-square)
-![solidity](https://img.shields.io/static/v1?logo=solidity&label=&message=solidity&color=36465D&logoColor=AAA&style=flat-square)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 

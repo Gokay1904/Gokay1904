@@ -86,6 +86,7 @@ __Here is my journey: How it started and how it continues:__
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
+---
 
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/g%C3%B6kay-ak%C3%A7ay-647522188/?locale=en_US">						
@@ -96,9 +97,9 @@ __Here is my journey: How it started and how it continues:__
   <img align="left" alt="Gokay's Instagram" width="" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
-\
 
----
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay1904&show_icons=true&theme=buefy)
 

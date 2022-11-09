@@ -96,6 +96,8 @@ __Here is my journey: How it started and how it continues:__
   <img align="left" alt="Gokay's Instagram" width="" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
+\\
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay1904&show_icons=true&theme=buefy)

@@ -86,16 +86,16 @@ __Here is my journey: How it started and how it continues:__
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
+--
+
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/g%C3%B6kay-ak%C3%A7ay-647522188/?locale=en_US">						
 	<img align="left" alt="Gokay's LinkedIn" width="175px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>				     
+</a>
+
 <a href="https://www.instagram.com/gokay__akcay/">
   <img align="left" alt="Gokay's Instagram" width="180px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay1904&show_icons=true&theme=buefy)

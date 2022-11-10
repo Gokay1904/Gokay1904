@@ -26,7 +26,7 @@ __Here is my journey: How it started and how it continues:__
 
 ## 🧔‍At the age of 20, in 2021, I joined my university's game developers community and made my first teamwork in __48-hour gamejams.__
   
-🔸I learned basics of ___Fortran___ and ___Python___ through my courses at university
+🔸I learned basics of ___Fortran___ and ___Python___ through my courses at university as an Applied Physics B.E. student.
 	
 🔸Python impressed me with its many advantages
 

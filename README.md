@@ -96,11 +96,9 @@ __Here is my journey: How it started and how it continues:__
 <a href="https://www.linkedin.com/in/g%C3%B6kay-ak%C3%A7ay-647522188/?locale=en_US">						
 	<img align="left" alt="Gokay's LinkedIn" width="auto" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://www.instagram.com/gokay__akcay/">
   <img align="left" alt="Gokay's Instagram" width="auto" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-
 <a href="https://www.coursera.org/user/27c2c2c28e97b530b5dfa746933dbb74">						
 	<img align="left" alt="Gokay's Coursera" width="auto" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>

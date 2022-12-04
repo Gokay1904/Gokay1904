@@ -100,6 +100,9 @@ __Here is my journey: How it started and how it continues:__
   <img align="left" alt="Gokay's Instagram" width="auto" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
+<a href="https://www.coursera.org/user/27c2c2c28e97b530b5dfa746933dbb74">						
+	<img align="left" alt="Gokay's Coursera" width="auto" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
+</a>
 
 
 

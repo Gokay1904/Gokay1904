@@ -103,6 +103,9 @@ __Here is my journey: How it started and how it continues:__
   <img align="left" alt="Gokay's Instagram" width="auto" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
+<a href="https://www.kaggle.com/gokayakcay">
+<img align="left" alt="Gokay's Kaggle" width="auto" src="[https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)" />
+
 
 
 

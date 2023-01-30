@@ -98,12 +98,13 @@ __Here is my journey: How it started and how it continues:__
 </a>
 <a href="https://www.kaggle.com/gokayakcay">
 <img align="left" alt="Gokay's Kaggle" width="auto" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
-<a href="https://www.coursera.org/user/27c2c2c28e97b530b5dfa746933dbb74">						
-	<img align="left" alt="Gokay's Coursera" width="auto" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
-</a>
+<a href="https://www.coursera.org/user/27c2c2c28e97b530b5dfa746933dbb74">	
 <a href="https://thorin1904.itch.io/">
  <img align="left" alt="Gokay's Itch-io" width="auto" src="https://camo.githubusercontent.com/9fd682145e4f0d5b90aac147ca8f96a32465f0b739c99f07c43fb47a63e59cf2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d497463682e696f26636f6c6f723d464135433543266c6f676f3d497463682e696f266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
 </a>
+<img align="left" alt="Gokay's Coursera" width="auto" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
+</a>
+
 <a href="https://www.instagram.com/gokay__akcay/">
   <img align="left" alt="Gokay's Instagram" width="auto" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>

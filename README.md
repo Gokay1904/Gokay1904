@@ -10,7 +10,7 @@
 
 🔸 I also learned how to work with data tools like JSON and MySQL.
 
-##🧑 High School Years: A Shift Towards Game Development (2016 - 2019)
+## 🧑 High School Years: A Shift Towards Game Development (2016 - 2019)
 🔸 In 2016, I discovered Unity, realizing my childhood dream of game development. I had to choose between C# and JavaScript for game programming, and I chose C#, using Visual Studio and Unity together.
 
 🔸 I worked on numerous game projects, most of which remained unfinished, but my first completed minigame came in 2019.

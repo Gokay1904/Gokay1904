@@ -1,4 +1,4 @@
-# 👋 Hi there!
+👋 Hi there!
 
 # 👶 How it Started: Early Years (2013 - 2016)
 

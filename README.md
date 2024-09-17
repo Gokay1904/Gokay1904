@@ -1,6 +1,7 @@
 # 👋 Hi there!
 
-👶 How it Started: Early Years (2013 - 2016)
+# 👶 How it Started: Early Years (2013 - 2016)
+
 🔸 I began programming with Java in 2013 when I was just 12 years old.
 
 🔸 Less than a year later, I had grasped the fundamental concepts of object-oriented programming in the Eclipse environment.
@@ -9,21 +10,21 @@
 
 🔸 I also learned how to work with data tools like JSON and MySQL.
 
-🧑 High School Years: A Shift Towards Game Development (2016 - 2019)
+#🧑 High School Years: A Shift Towards Game Development (2016 - 2019)
 🔸 In 2016, I discovered Unity, realizing my childhood dream of game development. I had to choose between C# and JavaScript for game programming, and I chose C#, using Visual Studio and Unity together.
 
 🔸 I worked on numerous game projects, most of which remained unfinished, but my first completed minigame came in 2019.
 
 🔸 Along the way, I gained a basic understanding of HTML and CSS.
 
-🧔 University Life: Teamwork and Technical Expansion (2021 - Present)
+# 🧔 University Life: Teamwork and Technical Expansion (2021 - Present)
 🔸 At 20, in 2021, I joined my university's game development community and participated in my first teamwork experience at 48-hour game jams.
 
 🔸 As an Applied Physics student, I also learned Fortran and Python in my university courses. Python impressed me due to its wide array of applications and ease of use.
 
 🔸 My focus shifted to improving my data science skills, working with libraries such as Pandas, NumPy, Scikit-learn, Keras, Matplotlib, and more.
 
-💼 Internship Experience: Enhancing Communication Systems
+# 💼 Internship Experience: Enhancing Communication Systems
 During my internship, I developed and optimized communication systems between vehicles and servers, working on both front-end and back-end architectures. Key achievements included:
 
 🔸 Communication Architecture: Developed the front-end and back-end architecture for communication between vehicles and servers.

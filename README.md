@@ -1,63 +1,42 @@
 # 👋 Hi there!
 
-  
-__Here is my journey: How it started and how it continues:__
+👶 How it Started: Early Years (2013 - 2016)
+🔸 I began programming with Java in 2013 when I was just 12 years old.
 
-## 👶I started programming with __Java__ in 2013 when I was 12 years old. 
+🔸 Less than a year later, I had grasped the fundamental concepts of object-oriented programming in the Eclipse environment.
 
-🔸Less than a year later, I grasped the basic concept of __object-oriented programming__ on Eclipse environment.
+🔸 In 2014, I created basic interface designs using NetBeans and soon after, I worked with Canvas, Graphics, and JFrame libraries in Java.
 
-🔸At 2014's I made basic interface designs in netbeans.
-	
-🔸After a short time I have worked with ___Canvas,Graphics JFrame libraries___ on Java.
-	
-🔸I learned data tools such as __Json__ and __Mysql__.
+🔸 I also learned how to work with data tools like JSON and MySQL.
 
+🧑 High School Years: A Shift Towards Game Development (2016 - 2019)
+🔸 In 2016, I discovered Unity, realizing my childhood dream of game development. I had to choose between C# and JavaScript for game programming, and I chose C#, using Visual Studio and Unity together.
 
-## 🧑In high school years, I turned to game development, which was my childhood dream.
+🔸 I worked on numerous game projects, most of which remained unfinished, but my first completed minigame came in 2019.
 
-🔸I met the __Unity__ game development engine in 2016. I had to choice one of C# or Javascript programming languages for game development.
-	
-🔸I chose ___C#___ and started developing in Visual Studio on one hand and Unity engine on the other. You may find my game-development portfolio in below.
-	
-🔸I have done many unfinished game projects so far but The first minigame project I completed was in 2019.
-		
-🔸I gained basic knowledge about html and css.
+🔸 Along the way, I gained a basic understanding of HTML and CSS.
 
-## 🧔‍At the age of 20, in 2021, I joined my university's game developers community and made my first teamwork in __48-hour gamejams.__
-  
-🔸I learned basics of ___Fortran___ and ___Python___ through my courses at university as an Applied Physics student.
-	
-🔸Python impressed me with its many advantages
+🧔 University Life: Teamwork and Technical Expansion (2021 - Present)
+🔸 At 20, in 2021, I joined my university's game development community and participated in my first teamwork experience at 48-hour game jams.
 
-🔸Lately, I've been working on data science libraries or related libraries.
-	
-🔸So far, I have worked in libraries like:
+🔸 As an Applied Physics student, I also learned Fortran and Python in my university courses. Python impressed me due to its wide array of applications and ease of use.
 
+🔸 My focus shifted to improving my data science skills, working with libraries such as Pandas, NumPy, Scikit-learn, Keras, Matplotlib, and more.
 
-🚩Pandas 
-		
-🚩Numpy
+💼 Internship Experience: Enhancing Communication Systems
+During my internship, I developed and optimized communication systems between vehicles and servers, working on both front-end and back-end architectures. Key achievements included:
 
-🚩Scikit-learn	
+🔸 Communication Architecture: Developed the front-end and back-end architecture for communication between vehicles and servers.
 
-🚩Keras
+🔸 Optimization: Enhanced communication protocols to improve efficiency and reduce latency.
 
-🚩Matplotlib 
-		
-🚩Tkinter 
+🔸 Data Management: Managed data flow and implemented effective strategies across platforms.
 
-🚩Flask+Jinja
-		
-🚩Selenium 
+🔸 Multi-threading: Integrated multi-threading tasks in the .NET Framework to improve system performance.
 
-🚩Bs4
+🔸 Cross-Platform Compatibility: Ensured seamless communication systems across both mobile and desktop platforms.
 
-🚩Turtle
-
-🚩SQLAlchemy
-
-🚩Spotipy
+🔸 Testing: Conducted rigorous testing to guarantee compatibility and efficiency in both environments.
 
 ---
 

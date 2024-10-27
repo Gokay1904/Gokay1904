@@ -24,22 +24,6 @@
 
 🔸 My focus shifted to improving my data science skills, working with libraries such as Pandas, NumPy, Scikit-learn, Keras, Matplotlib, and more.
 
-## 💼 Internship Experience: Enhancing Communication Systems
-During my internship, I developed and optimized communication systems between vehicles and servers, working on both front-end and back-end architectures. Key achievements included:
-
-🔸 Communication Architecture: Developed the front-end and back-end architecture for communication between vehicles and servers.
-
-🔸 Optimization: Enhanced communication protocols to improve efficiency and reduce latency.
-
-🔸 Data Management: Managed data flow and implemented effective strategies across platforms.
-
-🔸 Multi-threading: Integrated multi-threading tasks in the .NET Framework to improve system performance.
-
-🔸 Cross-Platform Compatibility: Ensured seamless communication systems across both mobile and desktop platforms.
-
-🔸 Testing: Conducted rigorous testing to guarantee compatibility and efficiency in both environments.
-
----
 
 **Languages:**
 

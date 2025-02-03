@@ -17,6 +17,7 @@ I’m an Applied Physics student with a strong background in programming and gam
 
 ---
 
+Contact with me!
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/g%C3%B6kay-ak%C3%A7ay-647522188/?locale=en_US">						
 	<img align="left" alt="Gokay's LinkedIn" width="auto" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />

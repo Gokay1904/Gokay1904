@@ -1,58 +1,19 @@
-👋 Hi there!
-
-## 👶 How it Started: Early Years (2013 - 2016)
-
-🔸 I began programming with Java in 2013 when I was just 12 years old.
-
-🔸 Less than a year later, I had grasped the fundamental concepts of object-oriented programming in the Eclipse environment.
-
-🔸 In 2014, I created basic interface designs using NetBeans and soon after, I worked with Canvas, Graphics, and JFrame libraries in Java.
-
-🔸 I also learned how to work with data tools like JSON and MySQL.
-
-## 🧑 High School Years: A Shift Towards Game Development (2016 - 2019)
-🔸 In 2016, I discovered Unity, realizing my childhood dream of game development. I had to choose between C# and JavaScript for game programming, and I chose C#, using Visual Studio and Unity together.
-
-🔸 I worked on numerous game projects, most of which remained unfinished, but my first completed minigame came in 2019.
-
-🔸 Along the way, I gained a basic understanding of HTML and CSS.
-
-## 🧔 University Life: Teamwork and Technical Expansion (2021 - Present)
-🔸 At 20, in 2021, I joined my university's game development community and participated in my first teamwork experience at 48-hour game jams.
-
-🔸 As an Applied Physics student, I also learned Fortran and Python in my university courses. Python impressed me due to its wide array of applications and ease of use.
-
-🔸 My focus shifted to improving my data science skills, working with libraries such as Pandas, NumPy, Scikit-learn, Keras, Matplotlib, and more.
-
+I’m an Applied Physics student with a strong background in programming and game development. I started coding in Java at 12, later transitioning to C# for game development with Unity. Over the years, I expanded my skills to Python, focusing on data science using libraries like Pandas, NumPy, and Scikit-learn. I enjoy working on both individual projects and team collaborations, particularly in game jams and data-driven tasks. Passionate about continuous learning and problem-solving.
 
 **Languages:**
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-**Tools**
-
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
 ---
 

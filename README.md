@@ -35,8 +35,4 @@ I’m an Applied Physics student with a strong background in programming and gam
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay1904&show_icons=true&theme=buefy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay1904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 

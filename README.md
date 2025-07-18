@@ -1,6 +1,6 @@
 ## About Me
 
-I’m an **BE. Applied Physics** student in with extensive experience in **programming** and **game development**. I started coding in **Java** at 12, later transitioning to **C#** for game development with **Unity**. Over the years, I expanded my skills to **Python**, focusing on **data science** using libraries like **Pandas**, **NumPy**, and **Scikit-learn**. I enjoy working on both **individual projects** and **team collaborations**, particularly in **game jams** and **data-driven tasks**. Passionate about **continuous learning** and **problem-solving**.
+I’m an **B.Sc. Applied Physics** student in with extensive experience in **programming** and **game development**. I started coding in **Java** at 12, later transitioning to **C#** for game development with **Unity**. Over the years, I expanded my skills to **Python**, focusing on **data science** using libraries like **Pandas**, **NumPy**, and **Scikit-learn**. I enjoy working on both **individual projects** and **team collaborations**, particularly in **game jams** and **data-driven tasks**. Passionate about **continuous learning** and **problem-solving**.
 
 ## Languages
 

@@ -4,7 +4,7 @@ I hold a B.Sc. in Applied Physics with a strong background in programming and ga
 
 I enjoy working on both individual projects and collaborative environments, particularly through game jams and data-driven challenges. I'm passionate about continuous learning, creative problem-solving, and applying technical knowledge to real-world scenarios.
 
-Currently, I work as a Retail Risk Specialist in the private banking sector, where I focus on applying financial models to industry-specific contexts, generating analytical insights, and querying large-scale data systems. This role has further strengthened my ability to bridge complex data with business impact.
+Currently, I work as a Retail Risk Specialist in the private banking sector, where I focus on applying financial models to industry-specific contexts, generating analytical insights, and querying large-scale data systems.
 
 ## Languages
 

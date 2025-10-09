@@ -1,6 +1,10 @@
 ## About Me
 
-I’m an **B.Sc. Applied Physicist** in with extensive experience in **programming** and **game development**. I started coding in **Java** at 12, later transitioning to **C#** for game development with **Unity**. Over the years, I expanded my skills to **Python**, focusing on **data science** using libraries like **Pandas**, **NumPy**, and **Scikit-learn**. I enjoy working on both **individual projects** and **team collaborations**, particularly in **game jams** and **data-driven tasks**. Passionate about **continuous learning** and **problem-solving**.
+I hold a B.Sc. in Applied Physics with a strong background in programming and game development. My journey began at the age of 12 with Java, later evolving into C# with a focus on Unity for game development. Over time, I broadened my expertise to include Python, specializing in data science using libraries such as Pandas, NumPy, and Scikit-learn.
+
+I enjoy working on both individual projects and collaborative environments, particularly through game jams and data-driven challenges. I'm passionate about continuous learning, creative problem-solving, and applying technical knowledge to real-world scenarios.
+
+Currently, I work as a Retail Risk Data Scientist in the private banking sector, where I focus on applying financial models to industry-specific contexts, generating analytical insights, and querying large-scale data systems. This role has further strengthened my ability to bridge complex data with business impact.
 
 ## Languages
 
